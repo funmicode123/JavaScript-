@@ -1,4 +1,4 @@
-let number = 8;
+let number = 7;
 let factorial = 1;
 let count = 1;
 
